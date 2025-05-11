@@ -15,8 +15,8 @@ export const skills = {
       { name: "REST APIs", level: 85, color: "bg-red-500" }
     ],
     tools: [
-      { name: "Git/GitHub", level: 90, color: "bg-gray-700" },
-      { name: "Webpack", level: 75, color: "bg-blue-500" },
-      { name: "AWS", level: 60, color: "bg-yellow-600" }
+      { name: "Git/GitHub", level: 70, color: "bg-gray-700" },
+      { name: "Webpack", level: 60, color: "bg-blue-500" },
+      { name: "AWS", level: 50, color: "bg-yellow-600" }
     ]
   }

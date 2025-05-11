@@ -5,7 +5,7 @@ export const projects = [
       description: "A full-featured e-commerce platform with product listings, cart functionality, checkout and user accounts.",
       image: "/assets/images/projects/ecommerce.avif",
       technologies: ["React", "Node.js", "MongoDB", "Tailwind CSS", "Redux"],
-      github: "https://github.com/username/ecommerce",
+      github: "https://github.com/nurrahman2001/E-Commerce-Application-Using-MERN-Stack",
       demo: "https://demo-ecommerce.yoursite.com",
     },
     {
@@ -14,7 +14,7 @@ export const projects = [
       description: "A task management application with drag-and-drop functionality, teams, and task assignments.",
       image: "/assets/images/projects/taskmanager.avif",
       technologies: ["React", "TypeScript", "Tailwind CSS", "MongoDB"],
-      github: "https://github.com/username/taskmanager",
+      github: "https://github.com/nurrahman2001/Task-Manager",
       demo: "https://demo-taskmanager.yoursite.com",
     },
     {
@@ -23,8 +23,8 @@ export const projects = [
       description: "A realtime chat application with current user presence, message history, and location-based avatar data.",
       image: "/assets/images/projects/chatapp.avif",
       technologies: ["React", "Socket.io", "Node.js", "MongoDB", "Tailwind CSS","WebRTC"],
-      github: "https://github.com/username/chatapp",
-      demo: "https://demo-chatapp.yoursite.com",
+      github: "https://github.com/nurrahman2001/Chat-App",
+      demo: "https://chat-app-delta-ebon.vercel.app/",
     },
     {
       id: 4,
